@@ -1,5 +1,5 @@
 #!/bin/bash
-echo ls -n -la
+ls -n -la
 
 
 
