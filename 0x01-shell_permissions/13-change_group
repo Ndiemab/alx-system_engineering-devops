@@ -1,2 +1,2 @@
 #!/bin/bash
-mv hello school chmod 644 school
+chgrp school hello
